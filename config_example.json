@@ -1,0 +1,12 @@
+{
+  "title": "Title  of the  page",
+  "images": "location of images with trailing slash/",
+  "description": "A description of the page",
+  "downloads": [
+    {
+      "href": "href to zipfile.zip",
+      "description": "Some text"
+    }
+  ]
+
+}
