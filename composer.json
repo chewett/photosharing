@@ -13,7 +13,8 @@
   "require": {
     "twitter/bootstrap": "^3.3",
     "lokesh/lightbox2" : "^2.11",
-    "frameworks/jquery": "^2.1"
+    "frameworks/jquery": "^2.1",
+    "ext-json": "*"
   },
   "repositories": [
     {
