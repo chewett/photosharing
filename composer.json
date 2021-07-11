@@ -1,0 +1,31 @@
+{
+  "name": "chewett/photosharing",
+  "description": "A page to show photos and allow downloading",
+  "license": "MIT",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Christopher Hewett",
+      "email": "chewett@hotmail.co.uk"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "twitter/bootstrap": "^3.3",
+    "lokesh/lightbox2" : "^2.11",
+    "frameworks/jquery": "^2.1"
+  },
+  "repositories": [
+    {
+      "type": "package",
+      "package": {
+        "name": "lokesh/lightbox2",
+        "version": "2.11.3",
+        "dist": {
+          "url": "https://github.com/lokesh/lightbox2/archive/v2.11.3.zip",
+          "type": "zip"
+        }
+      }
+    }
+  ]
+}
